@@ -1,0 +1,2 @@
+# Starting the workspace
+go work init toolkit app
